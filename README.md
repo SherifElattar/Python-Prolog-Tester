@@ -39,5 +39,6 @@ Run the command ```py test.py```
 
 ### Optional Flags
 ```-v``` or ```-verbose``` displays the output for every query
+
 ```-q``` or ```-query``` displays the input of each query and wether your answer matched the provided answer or not
 
