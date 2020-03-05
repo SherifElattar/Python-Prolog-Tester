@@ -30,7 +30,11 @@ Clone into the repo.
 ```
 git clone https://github.com/SherifElattar/Python-Prolog-Tester
 ```
+Install the required package
 
+```
+pip install pyswip
+```
 Copy your .pl file to the repo folder.
 Change line 9 on the ```test.py``` to match your .pl file name
 
